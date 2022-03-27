@@ -11,6 +11,7 @@
   inputs.src-Blackvas-0_2_0.ref   = "refs/tags/0.2.0";
   inputs.src-Blackvas-0_2_0.owner = "momeemt";
   inputs.src-Blackvas-0_2_0.repo  = "Blackvas";
+  inputs.src-Blackvas-0_2_0.dir   = "";
   inputs.src-Blackvas-0_2_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

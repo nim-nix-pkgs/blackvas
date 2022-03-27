@@ -11,6 +11,7 @@
   inputs.src-Blackvas-master.ref   = "refs/heads/master";
   inputs.src-Blackvas-master.owner = "momeemt";
   inputs.src-Blackvas-master.repo  = "Blackvas";
+  inputs.src-Blackvas-master.dir   = "";
   inputs.src-Blackvas-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
