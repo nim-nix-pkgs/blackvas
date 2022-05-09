@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/momeemt/Blackvas",
   "refs": [
-    "fatal: unable to access 'https://github.com/momeemt/Blackvas/': SSL connection timeout",
+    "fatal: unable to access 'https://github.com/momeemt/Blackvas/': Failed to connect to github.com port 443 after 130561 ms: Connection timed out",
     ""
   ],
   "heads": []
